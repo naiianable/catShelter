@@ -1,0 +1,19 @@
+{
+  "name": "catshelter",
+  "version": "1.0.0",
+  "description": "Please run \"npm install\" to get started. Then run \"npm start\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naiianable/catShelter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naiianable/catShelter/issues"
+  },
+  "homepage": "https://github.com/naiianable/catShelter#readme"
+}
